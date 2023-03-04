@@ -17,3 +17,4 @@ FROM
          UnitPrice DECIMAL(18,2),
          TaxAmount DECIMAL (18,2)
      ) AS [result]
+ --
